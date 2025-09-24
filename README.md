@@ -1,2 +1,2 @@
-node youtube-downloader.js
-node transcribe.js
+##node youtube-downloader.js
+##node transcribe.js
